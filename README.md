@@ -1,8 +1,10 @@
+<a href="https://alexalaniz.com">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=200&section=header&text=Alex%20Alaniz&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=Founder%20%7C%20Builder%20%7C%20Shipping%20Daily&descSize=16&descAlignY=55&descColor=8b949e" width="100%" />
+</a>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=80&lines=Making+crypto+payments+as+easy+as+Venmo;Running+a+39-agent+AI+org+%E2%80%94+24%2F7+autonomous;Building+5+products+across+Web3+%2B+AI+%2B+Mobile)](https://github.com/Alex-Alaniz)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Making+crypto+payments+as+easy+as+Venmo;Running+a+39-agent+AI+org+%E2%80%94+24%2F7+autonomous;Building+5+products+across+Web3+%2B+AI+%2B+Mobile)](https://alexalaniz.com)
 
 </div>
 
