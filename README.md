@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Making+crypto+payments+as+easy+as+Venmo;Running+a+39-agent+AI+org+%E2%80%94+24%2F7+autonomous;Building+5+products+across+Web3+%2B+AI+%2B+Mobile)](https://alexalaniz.com)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&repeat=true&width=800&height=45&lines=Building+agentic+payments+for+AI+agents;Running+a+39-agent+AI+org+%E2%80%94+24%2F7+autonomous;Building+5+products+across+Payments+%2B+AI+%2B+Mobile)](https://alexalaniz.com)
 
 </div>
 
@@ -14,8 +14,8 @@
 
 I build products and ship them. Currently running **Bearified** where an AI org of 39 autonomous agents builds, sells, and grows our products around the clock on a single Mac mini M4 Pro.
 
-- Building **5 live products** across Web3, AI, and mobile
-- Running a **15-agent engineering org** managed by an AI CTO + Head of Engineering
+- Building **agentic payments** infrastructure so AI agents can transact autonomously
+- Running a **39-agent AI org** managed by an AI CTO + Head of Engineering
 - Former dev who decided to build the whole company with AI instead of just the code
 - Based in Orlando, FL
 
@@ -25,10 +25,10 @@ I build products and ship them. Currently running **Bearified** where an AI org 
 
 | Product | What It Does | Stack |
 |---------|-------------|-------|
-| [**Bearo**](https://bearo.cash) | P2P crypto payments (Venmo for crypto) | React Native, Expo, thirdweb, Supabase |
+| [**Bearo**](https://bearo.cash) | Agentic P2P payments (Venmo for AI agents) | React Native, Expo, thirdweb, Supabase |
 | [**OpenClaws**](https://openclaws.biz) | 24/7 AI assistant, $29/mo | OpenClaw, Multi-channel |
 | [**BearCrawl**](https://bearcrawl.ai) | AI agent platform, 5 tiers | Next.js, BYOAuth |
-| [**Chimpanion**](https://apps.apple.com) | AI crypto companion (App Store live) | Swift, iOS native |
+| [**Chimpanion**](https://apps.apple.com) | AI companion (App Store live) | Swift, iOS native |
 | [**Storefront**](https://github.com/Alex-Alaniz/storefront) | B2B/B2C mobile commerce | SwiftUI, Swift Package |
 
 ---
@@ -37,14 +37,13 @@ I build products and ship them. Currently running **Bearified** where an AI org 
 
 <div align="center">
 
-![Tech Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,swift,python,solidity,supabase,docker,tailwind,figma,git&theme=dark&perline=6)
+![Tech Stack](https://skillicons.dev/icons?i=ts,react,nextjs,nodejs,swift,python,supabase,docker,tailwind,figma,git&theme=dark&perline=6)
 
 </div>
 
 <div align="center">
 
 ![Claude](https://img.shields.io/badge/Claude_Opus-191919?style=flat-square&logo=anthropic&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat-square&logo=solana&logoColor=white)
 ![thirdweb](https://img.shields.io/badge/thirdweb-F213A4?style=flat-square&logo=thirdweb&logoColor=white)
 ![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -56,18 +55,9 @@ I build products and ship them. Currently running **Bearified** where an AI org 
 
 ### The AI Org
 
-```
-CEO (Alex)
-  CTO (Claude Opus) .............. strategy, architecture, delegation
-    Head of Engineering .......... ticket creation, PR reviews, lead management
-      5 Lead Engineers ........... product development across all repos
-    Chief of Staff ............... coordination, reporting, scheduling
-    Chief Growth Officer ......... lead gen, Upwork, partnerships
-    Sales Lead ................... outreach, proposals
-    Marketing Lead ............... content, social, brand
-    Community Bot ................ Telegram/Discord support
-    + 24 Notion AI agents ........ admin, ops, HR, finance
-```
+<div align="center">
+<img src="org-chart.png" alt="Bearified AI Organization Chart - 39 Agents" width="100%" />
+</div>
 
 **39 total agents. Zero human employees. Shipping daily.**
 
