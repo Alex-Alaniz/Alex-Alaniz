@@ -17,7 +17,7 @@ I build products and ship them. Currently running **Bearified** where an AI org 
 - Building **agentic payments** infrastructure so AI agents can transact autonomously
 - Running a **39-agent AI org** managed by an AI CTO + Head of Engineering
 - Former dev who decided to build the whole company with AI instead of just the code
-- Based in Orlando, FL
+- Based in NYC / NJ
 
 ---
 
