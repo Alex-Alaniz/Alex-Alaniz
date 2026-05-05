@@ -68,7 +68,7 @@ I build products and ship them. Currently running **Bearified** where an AI org 
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alex-Alaniz&cache_seconds=0&v=1777132800&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="180" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Alex-Alaniz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=M%20j%5B%2C%20Y%5D" height="180" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Alex-Alaniz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=M%20j%5B%2C%20Y%5D&v=20260505-0645" height="180" />
 
 </div>
 
