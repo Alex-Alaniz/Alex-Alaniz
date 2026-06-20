@@ -67,14 +67,14 @@ I build products and ship them. Currently running **Bearified** where an AI org 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Alex-Alaniz&cache_seconds=0&v=20260514-124910&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="180" />
-<img src="https://github-readme-streak-stats-eight.vercel.app?user=Alex-Alaniz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=M%20j%5B%2C%20Y%5D&v=20260514-124910" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alex-Alaniz&cache_seconds=0&v=20260620-1702&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github" height="180" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=Alex-Alaniz&theme=github-dark-blue&hide_border=true&background=0D1117&stroke=30363D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&date_format=M%20j%5B%2C%20Y%5D&v=20260620-1702" height="180" />
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Alaniz&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&v=20260514-124910" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Alex-Alaniz&theme=github-compact&bg_color=0d1117&color=58a6ff&line=58a6ff&point=c9d1d9&area_color=161b22&area=true&hide_border=true&v=20260620-1702" width="95%" />
 
 </div>
 
@@ -101,4 +101,3 @@ I build products and ship them. Currently running **Bearified** where an AI org 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=100&section=footer" width="100%" />
-
